@@ -1,0 +1,44 @@
+li{
+    float:left;
+    list-style: none;
+    padding:5px;
+    color: blue;
+}
+.Nav_bar{
+    float:right;
+}
+.body{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 200px;
+    left:400px;
+}
+body{
+    position: relative;
+
+}
+#logo{
+    height: 40px;
+    width: 450px;
+    position: absolute;
+    right: 150px;
+    top:102px
+}
+#btn1{
+position: absolute;
+    top: 170px;
+    right: 400px;
+    
+}
+#btn2{
+position: absolute;
+    top: 170px;
+    left: 105px;
+    
+}
+.lang_bar{
+    position: absolute;
+    top: 400px;
+    left:250px;
+}
